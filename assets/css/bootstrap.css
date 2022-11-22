@@ -10302,24 +10302,28 @@ a.text-dark:hover, a.text-dark:focus {
 
 @media (min-width: 576px) {
   .but {
-    max-width: 540px;
+    max-width: 450px;
+    max-height: 550px;
   }
 }
 
 @media (min-width: 768px) {
   .but {
-    max-width: 720px;
+    max-width: 642px;
+    max-height: 742px;
   }
 }
 
 @media (min-width: 992px) {
   .but {
-    max-width: 960px;
+    max-width: 866px;
+    max-height: 966px;
   }
 }
 
 @media (min-width: 1200px) {
   .but {
-    max-width: 1140px;
+    max-width: 1074px;
+    max-height: 1174px;
   }
 }
