@@ -10299,3 +10299,27 @@ a.text-dark:hover, a.text-dark:focus {
 .button-back{
   margin-bottom: 10px;
 }
+
+@media (min-width: 576px) {
+  .but {
+    width: fit-content;
+  }
+}
+
+@media (min-width: 768px) {
+  .but {
+    width: fit-content;
+  }
+}
+
+@media (min-width: 992px) {
+  .but {
+    width: fit-content;
+  }
+}
+
+@media (min-width: 1200px) {
+  .but {
+    width: fit-content;
+  }
+}
